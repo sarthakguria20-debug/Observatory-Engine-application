@@ -1,0 +1,6 @@
+{
+  "name": "Observability & Log Aggregation Engine",
+  "description": "A full-stack, real-time log ingestion pipeline with a lightweight simulated agent, alerting mechanisms, and a centralized analytics dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
